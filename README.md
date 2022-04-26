@@ -8,7 +8,9 @@ Data analysis portfolio
 # Skills and tools: 
  Pandas, Python.  Data processing, duplicates, gaps, logical indexing, grouping, sorting.
  
+ ![](https://github.com/Solomanin/German_Portfolio/blob/main/images/Yandex.Music%20image.png)
  
+
 # [Project 2: Borrowers' Reliability Research – Banking Data Analysis](https://github.com/Solomanin/Borrower-reliability-research)
 # Objectives of the project: 
  Based on statistics on the solvency of customers, investigate whether the marital status and the number of children of the client affect the fact of repayment of the loan on time.
