@@ -26,5 +26,6 @@
 # Skills & Tools: 
  Python, Pandas, Matplotlib, exploratory data analysis, data visualization, data preprocessing
  
-![](https://github.com/Solomanin/German_Portfolio/blob/main/images/real_estate.png)[](https://github.com/Solomanin/German_Portfolio/blob/main/images/real%20estate.png)
+![](https://github.com/Solomanin/German_Portfolio/blob/main/images/real_estate.png)
+                                                                                  ![](https://github.com/Solomanin/German_Portfolio/blob/main/images/real%20estate.png)
  
