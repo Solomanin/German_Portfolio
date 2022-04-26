@@ -1,5 +1,3 @@
-# German_Portfolio
-Data analysis portfolio
 # [Project 1: Research of data of the service "Yandex.Music" — comparison of users of two cities.](https://github.com/Solomanin/Yandex.Music)
 # Objectives of the project: 
  Using real Yandex.Music data, using the Pandas library and its capabilities, it was necessary to check the data and compare the behavior and preferences of users of the two capitals – Moscow and St. Petersburg.
