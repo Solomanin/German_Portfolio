@@ -18,7 +18,7 @@
  Python,Pandas, Data preprocessing
  
  
-# Project 3: Sale of apartments in St. Petersburg — analysis of the real estate market
+# [Project 3: Sale of apartments in St. Petersburg — analysis of the real estate market](https://github.com/Solomanin/Real-estate-sales)
 # Objectives of the project: 
  Using the data of the Real Estate service, determine the market value of real estate and typical parameters of apartments
 # Description of the project:
