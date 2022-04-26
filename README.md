@@ -9,7 +9,7 @@ Data analysis portfolio
  Pandas, Python.  Data processing, duplicates, gaps, logical indexing, grouping, sorting.
  
  
- # [Project 2: Borrowers' Reliability Research – BankIng Data Analysis](https://github.com/Solomanin/Borrower-reliability-research)
+# [Project 2: Borrowers' Reliability Research – BankIng Data Analysis](https://github.com/Solomanin/Borrower-reliability-research)
 # Objectives of the project: 
  Based on statistics on the solvency of customers, investigate whether the marital status and the number of children of the client affect the fact of repayment of the loan on time.
 # Description of the project:
