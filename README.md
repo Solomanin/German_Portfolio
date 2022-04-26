@@ -15,5 +15,5 @@
 # Description of the project:
  Based on the data of the credit department of the bank, he investigated the impact of marital status andthe number of children on the fact of repayment of the loan on time. Information was received onData. Gaps have been identified and processed. Replaced the data types with the appropriate onesstored data. Removed duplicates. Lemmas in column values are highlighted, and categorized data.
 # Skills & Tools:
-Python,Pandas, Data preprocessing
+ Python,Pandas, Data preprocessing
  
