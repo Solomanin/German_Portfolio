@@ -38,5 +38,6 @@ You will work with the data published on the open data portal of the Ministry of
 # Skills and tools:  
   Python,Pandas, data preprocessing, exploratory data analysis, data visualization
 
+![](/images/mkrf%20image.png)
                                                                             
  
