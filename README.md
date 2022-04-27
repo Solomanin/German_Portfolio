@@ -40,7 +40,7 @@ You will work with the data published on the open data portal of the Ministry of
 ![](/images/mkrf_image.png)
 
 
-# [Project 5:Creating a dashboard based on custom events for an aggregator News](https://github.com/Solomanin/Yandex-Dzen-dashboard/edit/main/README.md)
+# [Project 5:Creating a dashboard based on custom events for an aggregator News](https://github.com/Solomanin/Yandex-Dzen-dashboard)
 # Objectives of the project:   
 Using Yandex.Zen data, build a dashboard with metrics of user interaction with article cards
 # Description of the project:  
