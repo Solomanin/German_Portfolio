@@ -71,3 +71,11 @@ Various metrics were calculated, cohort analysis was used: LTV, CAC, Retention r
  Python, Pandas, Matplotlib, cohort analysis, unit economics, product metrics, Seaborn
  ![](/images/metrics_image.png)
  
+
+# [Project 8: # Covid_eda](https://github.com/Solomanin/Covid_eda)
+# Project description:
+ Using real world  data, I analyzed the data on the incidence of COVID
+# Skills and Tools:
+ python, pandas, matplotlib, seaborn, pandas.plot, data visualization
+
+ 
