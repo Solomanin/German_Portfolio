@@ -77,5 +77,5 @@ Various metrics were calculated, cohort analysis was used: LTV, CAC, Retention r
  Using real world  data, I analyzed the data on the incidence of COVID
 # Skills and Tools:
  Python, pandas, matplotlib, seaborn, pandas.plot, data visualization
-
+![](/images/covid_image2.png)
  
