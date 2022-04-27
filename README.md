@@ -37,7 +37,6 @@ It is necessary to study the Russian film distribution market and identify curre
 You will work with the data published on the open data portal of the Ministry of Culture. The dataset contains information on distribution certificates, fees and state support for films, as well as information from the KinoPoisk website.
 # Skills and tools:  
   Python,Pandas, data preprocessing, exploratory data analysis, data visualization
-
 ![](/images/mkrf%20image.png)
                                                                             
  
