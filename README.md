@@ -50,7 +50,7 @@ Using Yandex.Zen data, build a dashboard with metrics of user interaction with a
  ![](/images/dzen_dashboard.png)
  
  # [Project 6: A survey of customers of a telecommunications company](https://github.com/Solomanin/Telecom-company-dashboard)
-# Objectives of the project: 
+ # Objectives of the project: 
 Study of data with the results of a survey reflecting the current level of consumer loyalty (NPS) of customers of a telecommunications company.
 # Project description: 
 The customer of this study is a large telecommunications company that provides services throughout the CIS. The company is faced with the task of determining the current level of consumer loyalty, or NPS (from the English Net Promoter Score), among customers from Russia.
