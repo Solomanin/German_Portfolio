@@ -80,7 +80,7 @@ Various metrics were calculated, cohort analysis was used: LTV, CAC, Retention r
 ![](/images/covid_image2.png)
 
 # [Project 9: # Monetization of the game App](https://github.com/Solomanin/Formation-of-a-monetization-model)
-# # Objectives of the project:
+#  Objectives of the project:
  Form a monetization model of the game App.
 # Skills and Tools:
  Python, pandas, Data preprocessing, matplotlib, seaborn, pandas.plot, data visualization, Tableau, construction of dashboards
