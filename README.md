@@ -78,4 +78,9 @@ Various metrics were calculated, cohort analysis was used: LTV, CAC, Retention r
 # Skills and Tools:
  Python, pandas, matplotlib, seaborn, pandas.plot, data visualization
 ![](/images/covid_image2.png)
- 
+
+# [Project 9: # Monetization of the game App](https://github.com/Solomanin/Monetization-of-the-game-application)
+# # Objectives of the project:
+ Form a monetization model of the game application.
+# Skills and Tools:
+ Python, pandas, Data preprocessing, matplotlib, seaborn, pandas.plot, data visualization, Tableau, construction of dashboards
