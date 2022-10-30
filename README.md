@@ -85,7 +85,7 @@ Various metrics were calculated, cohort analysis was used: LTV, CAC, Retention r
 # Skills and Tools:
  Python, pandas, Data preprocessing, matplotlib, seaborn, data visualization, Tableau, construction of dashboards, hypothesis testing
  
- # [Project 9: # A\B testing 2](https://github.com/Solomanin/A-B-testing_2)
+ # [Project 10: # A\B testing 2](https://github.com/Solomanin/A-B-testing_2)
 #  Objectives of the project:
  Evaluate the results of the A/B test.
 # Skills and Tools:
